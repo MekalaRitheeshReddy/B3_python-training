@@ -1,0 +1,16 @@
+"""
+and
+or
+not
+is
+if
+elif
+else
+from
+true
+false
+try
+except
+for
+while
+"""
