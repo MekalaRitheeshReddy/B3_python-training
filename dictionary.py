@@ -7,7 +7,7 @@ marks = {"Avinash":90,"Ramu":80,"Suresh":70}
 key = Avinash
 Value = 90
 item = Avinash:90
-
+new = "ritheesh"
 
 
 #method 1

@@ -30,7 +30,7 @@ list1[1] = "Ritheesh"
 print(list1)
 list2[3:2] = [10,11]
 print(list2)
-
+print(list1)
 
 #append()
 
